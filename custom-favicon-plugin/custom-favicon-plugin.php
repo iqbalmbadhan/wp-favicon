@@ -5,7 +5,7 @@ Plugin URI: https://iqbalmahmud.com
 Description: A plugin to add a custom favicon via the WordPress admin dashboard.
 Version: 1.0
 Author: Iqbal Mahmud
-Author URI: https://example.com
+Author URI: https://iqbalmahmud.com
 License: GPL2
 */
 
